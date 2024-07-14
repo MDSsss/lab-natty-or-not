@@ -21,22 +21,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+IA INSIDE THE GAMES
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book cobriu a importância da IA no mercado de video games, destacando suas aplicações atuais e futuras.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta Apple Pages para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IA em games e no mercado de video games, estruturar o conteúdo e refinar minhas ideias. Para geração de imagens exclusivas para o nosso e-book, foi usado o "Leonardo AI". Para concluir, a montagem final foi feita no Apple Pages.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente, demonstrando o uso e impacto das IAs dentro de games e no mercado de games.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## Link E-Book
+https://www.icloud.com/pages/07eZxYWzlh3Q2o8RgV4QuyXdQ#IA_INSIDE_THE_GAMES
 
 ### Exemplos e Insigths
 
